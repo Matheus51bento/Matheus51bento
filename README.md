@@ -2,8 +2,8 @@
 
  <div>
   <a href="https://github.com/Matheus51bento">
-  <img height="180em" width="350vw" src="https://github-readme-stats.vercel.app/api?username=Matheus51bento&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="420vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus51bento&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="350vw" src="https://github-readme-stats.vercel.app/api?username=Matheus51bento&show_icons=true&theme=midnight-purple&bg_color=1,000000,100001&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="420vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus51bento&layout=compact&langs_count=7&theme=midnight-purple&bg_color=1,100001,000000"/>
 </div>
   
 <div style="display: inline_block"><br>
